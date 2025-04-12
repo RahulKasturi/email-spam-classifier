@@ -15,6 +15,6 @@ This project classifies emails as **spam** or **not spam** using a Random Forest
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/email-spam-classifier.git
+git clone https://github.com/RahulKasturi/email-spam-classifier.git
 cd email-spam-classifier
 
